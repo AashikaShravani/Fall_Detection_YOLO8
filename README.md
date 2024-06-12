@@ -20,5 +20,5 @@ YOLO (You Only Look Once) is a popular family of object detection models known f
 
 # Output Video 
 <p align = "Center">
-   <vdo src = 'https://github.com/AashikaShravani/Fall_Detection_YOLO8/assets/140937457/8e8802c3-c414-4f46-8518-c9d4674aa882' >
+   <video src = 'https://github.com/AashikaShravani/Fall_Detection_YOLO8/assets/140937457/8e8802c3-c414-4f46-8518-c9d4674aa882' >
 </p>
