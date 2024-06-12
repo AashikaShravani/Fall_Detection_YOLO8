@@ -14,5 +14,11 @@ YOLO (You Only Look Once) is a popular family of object detection models known f
 * Run the python file video.py
 
 # Screenshot
+<p align = "Center">
+   <img src = 'https://github.com/AashikaShravani/Fall_Detection_YOLO8/assets/140937457/652de64a-a72f-45b9-89a2-72c0cc981e61' >
+</p>
 
- 
+# Output Video 
+<p align = "Center">
+   <vdo src = 'https://github.com/AashikaShravani/Fall_Detection_YOLO8/assets/140937457/8e8802c3-c414-4f46-8518-c9d4674aa882' >
+</p>
