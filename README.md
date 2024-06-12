@@ -1,5 +1,5 @@
 # Fall_Detection_YOLO8
-
+Human Fall Detection Using YOLO8
 # Fall Detection Using YOLO8
 Fall detection is a crucial application in the fields of healthcare and safety monitoring, especially for the elderly or those with mobility issues. Using a deep learning model like YOLOv8 can provide real-time and accurate detection of fall events. Below is an overview of the process, components, and considerations for implementing fall detection using YOLOv8.
 
